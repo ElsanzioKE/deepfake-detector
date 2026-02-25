@@ -1,0 +1,10 @@
+venv/
+data/
+*.h5
+*.zip
+*.csv
+__pycache__/
+*.pyc
+training_log.csv
+real_vs_fake/
+unchopped/
